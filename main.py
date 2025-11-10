@@ -3,7 +3,6 @@ import random
 print("Welcome to Xavier's Ultimate Banking ChatBot")
 name = input("What is your name? ")
 age = int(input(f"Hello {name}, how old are you? "))
-print(f"Wow, {age}! Somebody's getting old!\n")
 print('How can I assist you?')
 # ------- Defining functions -------
 usedAccounts = []
